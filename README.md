@@ -6,4 +6,4 @@
 
 ## Peer Review
 
-- Darcy Rose - Peer Review: Everything works. I continue to be impressed with your coding structure and understanding of coding concepts. Kudos!
+- Darcy Rose - Everything works. I continue to be impressed with your coding structure and understanding of coding concepts. Kudos!
